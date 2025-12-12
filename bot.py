@@ -11,7 +11,7 @@ from telegram.ext import (
 )
 import os
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8380728762:AAH8y4n-7uxWYwdSPvhdvCF4MmQSGCAfRVw")
 CHANNEL_ID = -1000000000000  # ID канала @black_starmama
 
 
